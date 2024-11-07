@@ -3,6 +3,6 @@ repo: praktykanci-IBM/user-access-records
 type: 0
 users:
     - name: wiktorsiwecki
-      status: 0
+      status: 1
     - name: zwx-tech
       status: 0
