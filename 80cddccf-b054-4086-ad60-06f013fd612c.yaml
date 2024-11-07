@@ -1,4 +1,6 @@
 owner: MIKK0Z
 repo: praktykanci-IBM/user-access-records
 type: 0
-users: []
+users:
+    - name: wiktorsiwecki.yaml
+      access: file
