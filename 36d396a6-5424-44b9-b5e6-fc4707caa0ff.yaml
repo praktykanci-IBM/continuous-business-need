@@ -3,6 +3,6 @@ repo: praktykanci-IBM/test-repo
 type: positive
 users:
     - name: 6tab9
-      status: 0
+      status: 1
     - name: zwx-tech
       status: 0
