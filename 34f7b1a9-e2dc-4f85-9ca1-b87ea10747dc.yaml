@@ -1,4 +1,8 @@
 owner: MIKK0Z
 repo: praktykanci-IBM/test-repo
 type: 0
-users: []
+users:
+    - name: 6tab9
+      status: 0
+    - name: MIKK0Z
+      status: 0
