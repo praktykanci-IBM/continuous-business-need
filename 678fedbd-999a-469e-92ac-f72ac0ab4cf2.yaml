@@ -3,4 +3,4 @@ repo: praktykanci-IBM/test-repo
 type: positive
 users:
     - name: praktykant-test
-      status: 0
+      status: 2
