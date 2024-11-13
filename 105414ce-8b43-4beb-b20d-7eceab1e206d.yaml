@@ -3,4 +3,4 @@ repo: praktykanci-IBM/uar-cli-tool
 type: negative
 users:
     - name: praktykant-test
-      status: approved
+      status: rejected
