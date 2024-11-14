@@ -1,9 +1,17 @@
-owner: wiktorsiwecki
+started_by: ""
+started_on: ""
 repo: praktykanci-IBM/test-repo
 type: negative
 extracted_by: wiktorsiwecki
 extracted_on: 14.11.2024, 10:26 CET
 users:
+    - name: praktykant-test
+      status: rejected
+      validated_on: 14.11.2024, 10:28 CET
+      validated_by: wiktorsiwecki
+executed_by: wiktorsiwecki
+executed_on: 14.11.2024, 10:31 CET
+userschanged:
     - name: praktykant-test
       status: rejected
       validated_on: 14.11.2024, 10:28 CET
