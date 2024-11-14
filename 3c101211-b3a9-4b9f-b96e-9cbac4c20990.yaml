@@ -1,6 +1,8 @@
 owner: wiktorsiwecki
 repo: praktykanci-IBM/test-repo
 type: negative
+extracted_by: wiktorsiwecki
+extracted_on: 14.11.2024, 10:26 CET
 users:
     - name: praktykant-test
       status: unset
