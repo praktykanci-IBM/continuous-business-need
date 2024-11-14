@@ -1,4 +1,8 @@
 owner: wiktorsiwecki
 repo: praktykanci-IBM/test-repo
 type: negative
-users: []
+users:
+    - name: praktykant-test
+      status: unset
+      validated_on: ""
+      validated_by: ""
